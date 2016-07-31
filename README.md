@@ -13,5 +13,5 @@ install on Mac OS X:
 
 # looks like that
 
-<img src="" width="350">
+<img src="https://cloud.githubusercontent.com/assets/1083174/17276178/a698fe86-5742-11e6-819d-1691dc551452.png">
 
